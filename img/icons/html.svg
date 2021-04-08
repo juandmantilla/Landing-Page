@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns:svgjs="http://svgjs.com/svgjs"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512"
+	 style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#145DA0;}
+</style>
+<g>
+	<script>(function() {
+            // If GPC on, set DOM property to true if not already true
+            if (true) {
+                if (navigator.globalPrivacyControl) return
+                Object.defineProperty(navigator, &apos;globalPrivacyControl&apos;, {
+                    value: true,
+                    enumerable: true
+                })
+            } else {
+                // If GPC off, set DOM property prototype to false so it may be overwritten
+                // with a true value by user agent or other extensions
+                if (typeof navigator.globalPrivacyControl !== &quot;undefined&quot;) return
+                Object.defineProperty(Object.getPrototypeOf(navigator), &apos;globalPrivacyControl&apos;, {
+                    value: false,
+                    enumerable: true
+                })
+            }
+            // Remove script tag after execution
+            document.currentScript.parentElement.removeChild(document.currentScript)
+        })()
+		</script>
+	<path class="st0" d="M32.2,16.9l33.2,425.1c0.5,6.4,4.8,11.8,10.9,13.8l174.9,55.4c3.1,1,6.4,1,9.5,0l174.9-55.4
+		c6.1-1.9,10.4-7.4,10.9-13.8l33.2-425.1C480.5,7.8,473.3,0,464.1,0H47.9C38.7,0,31.5,7.8,32.2,16.9z M394.5,148.8H178l6.5,60.3
+		h205.3l-13.4,171.8L256,419.1l-120.4-38.2l-7-89.8h63.2v44l65.9,17.7l65.5-17.7l5.1-70.2H126.5L113.1,93.7h285.7L394.5,148.8z"/>
+</g>
+</svg>
